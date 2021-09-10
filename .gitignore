@@ -1,0 +1,14 @@
+.idea/
+.vscode/
+__pycache__/
+*.pth
+images/
+mask_images/
+data/
+*_images/
+saved_models/
+training_outputs/
+metrics/
+*.png
+env/
+*.DS_STORE
